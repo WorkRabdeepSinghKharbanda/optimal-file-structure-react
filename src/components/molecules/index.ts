@@ -1,0 +1,1 @@
+// grouped atoms forming functional components
